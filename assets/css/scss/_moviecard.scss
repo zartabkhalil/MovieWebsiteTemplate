@@ -1,0 +1,47 @@
+.movie {
+	width:152px;
+	
+	position: relative;
+}
+.movie-image {
+	width:152px;
+	height:214px;
+	
+}
+
+.movie-image img {
+	width:152px;
+	height:214px;
+}
+
+
+.img-cat{
+    background-color: #FED700;
+    height: 20px;
+    font-size: 11px;
+    font-weight: 500;
+    width: 58px;
+    padding:2px 6px 6px 6px;
+    position: absolute;
+    z-index: 4;
+    text-align:center;
+    top:8px;
+    right:8px;
+}
+
+
+
+.up-coming-movie {
+	width:352px;
+	cursor: pointer;
+	position: relative;
+}
+.upcoming-movie-image {
+	width:352px;
+	height:150px;
+	
+}
+.upcoming-movie-image img {
+	width:352px;
+	height:150px;
+}
